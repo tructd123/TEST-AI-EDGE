@@ -12,7 +12,7 @@
 3. [KHỐI 2: TỐI ƯU HÓA BACKEND INFERENCE](#3-khối-2-tối-ưu-hóa-backend-inference)
 4. [KHỐI 3: QUẢN LÝ BỘ NHỚ](#4-khối-3-quản-lý-bộ-nhớ)
 5. [PSEUDO-CODE & CẤU TRÚC CHƯƠNG TRÌNH](#5-pseudo-code--cấu-trúc-chương-trình)
-6. [GIẢI TRÌNH THIẾT KẾ (Q&A)](#6-giải-trình-thiết-kế-qa)
+6. [CÂU HỎI GIẢI TRÌNH](#6-câu-hỏi-giải-trình)
 7. [PHỤ LỤC](#7-phụ-lục)
 
 ---
@@ -616,7 +616,7 @@ if __name__ == "__main__":
 
 ---
 
-## 6. GIẢI TRÌNH THIẾT KẾ (Q&A)
+## 6. CÂU HỎI GIẢI TRÌNH (DOCUMENTATION)
 
 ### Q1: whisper.cpp hay sherpa-onnx?
 
