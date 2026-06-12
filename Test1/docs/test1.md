@@ -293,7 +293,7 @@ Total RAM Pi 5 (4 GB)
 └─────────────────┘        └──────────────────┘
 ```
 
-### 5.2. Python Pseudo-Code (Kiến Trúc Chuẩn Mực)
+### 5.2. Python Pseudo-Code
 
 ```python
 #!/usr/bin/env python3
